@@ -24,15 +24,15 @@ body {
 .Stop {
 	padding-left: 5px;
 	width: 80%;
-	color: #ababab;
-	text-shadow: 1px 1px 1px #000;
+	color: #FFF;
+	text-shadow: 1px 1px 2px #000;
 	font-family: PT Serif;
 }
 
 .Coworkers {
 	padding-left: 50px;
 	width: 80%;
-	color: #ababab;
+	color: #FFF;
 	text-shadow: 1px 1px 2px #000;
 	font-size: 15px;
 	font-family: PT Serif;
@@ -74,3 +74,87 @@ body {
 	background-color: #0d00fa;
 }
 
+.Warriors {
+	background-color: #e6c60e;
+	color: #141212;
+}
+
+.Rockets {
+	background-color: #d90303;
+}
+
+.Pacers {
+	background-color: #f7c600;
+}
+
+.Clippers {
+	background-color: #050d9e;
+}
+
+.Lakers {
+	background-color: #450a80;
+}
+
+.Grizzlies {
+	background-color: #435e99;
+}
+
+.Heat {
+	background-color: #a80707;
+}
+
+.Bucks {
+	background-color: #164f1e;
+}
+
+.Timberwolves {
+	background-color: #04366e;
+}
+
+.Pelicans {
+	background-color: #071338;
+}
+
+.Knicks {
+	background-color: #fa9512;
+}
+
+.Thunder {
+	background-color: #2578f5;
+}
+
+.Magic {
+	background-color: #088bf7;
+}
+
+.Sixers {
+	background-color: #0551f5;
+}
+
+.Suns {
+	background-color: #633791;
+}
+
+.Blazers {
+	background-color: #d42626;
+}
+
+.Kings {
+	background-color: #8f3ee0;
+}
+
+.Spurs {
+	background-color: #0d0c0c;
+}
+
+.Raptors {
+	background-color: #d42424;
+}
+
+.Jazz {
+	background-color: #034d0f;
+}
+
+.Wizards {
+	background-color: #e31616;
+}
